@@ -1,5 +1,5 @@
 # Instalacao_basicos_fabrica
- Arquivo para instalar os pacotes necessarios para o funcionamento dos computadores da Fabrica de Software
+ Arquivo para instalar os pacotes necessarios para o funcionamento dos computadores da Fabrica de Software (Manjaro)
 
 ## Passo-a-passo
 
